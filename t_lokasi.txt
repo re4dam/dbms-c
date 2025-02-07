@@ -1,0 +1,8 @@
+S001 Cipanas Jawa_Barat
+S002 Jakarta_Selatan Jakarta
+S003 Tangerang Banten
+S004 Majak Jawa_Barat
+S005 Nanggoeng Jawa_Barat
+S006 Bongas Jawa_Barat
+S007 Sleman Yogyakarta
+#### #### ####

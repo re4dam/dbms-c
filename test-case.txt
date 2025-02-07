@@ -1,0 +1,30 @@
+insert tabel
+INSERT
+INSERT;
+INSERT t_bank B002 Food_Just_Me 15001;
+INSERT t_bank B008 One_For_All 4351;
+
+update tabel
+UPDATE t_bank B009 All_For_One 5314;
+UPDATE t_bank B008 Deku's_Life_Service 4351;
+
+delete tabel
+DELETE t_bank B010;
+DELETE t_bank B006;
+DELETE t_bank B004;
+
+INSERT t_site S007 Sleman Jawa_Barat;
+UPDATE t_site S007 Sleman Yogyakarta;
+
+SELECT t_bank t_site;
+SELECT t_bank;
+SELECT t_bank t_bank;
+SELECT t_site t_site;
+
+INSERT t_exec P003 S007 B008 15-11-2024;
+SELECT t_exec t_bank;
+SELECT t_exec t_bank t_bank;
+SELECT t_exec t_site;
+SELECT t_exec t_site t_site;
+SELECT t_exec t_site t_bank;
+SELECT t_exec t_bank t_site;
